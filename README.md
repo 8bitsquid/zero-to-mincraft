@@ -1,7 +1,9 @@
 # From Zero to Minecraft
 Computer science and Java crash course to work your way up making advanced Minecraft mods.
 
-## Syllybus
+## Syllabus
+
+This course is intended to give basic knowledge and background to learning Java and applying those skills to Minecraft mods. It does not include in-depth knowledge of Computer Science as a whole.
 
 ### Session 1 - Intro to Computer & Programming Fundamentals
 
