@@ -33,7 +33,7 @@ This course is intended to give basic knowledge and background to learning Java 
 
 2.  Create an array of 10 letters 
 
-### Section 4 - Control Flow Statements
+### Section 3 - Control Flow Statements
 
 ### Reading Material
 * [Control Flow Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)
@@ -55,10 +55,8 @@ Reading Materials
 
 ### Section 6 - Memory management 
 
-### Section 7 - Object Oriented Programming (OOP)
+### Section 7 - Debugging
 
-### Section 8 - Debugging
+### Section 8 - Source Code Management
 
-### Section 9 - Source Code Management
-
-### Section 10 - First Project TBA
+### Section 9 - First Project TBA
