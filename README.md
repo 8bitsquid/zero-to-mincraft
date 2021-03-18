@@ -44,16 +44,37 @@ This course is intended to give basic knowledge and background to learning Java 
 
 #### Questions and Excercises
 
-TBA
+1. Consider the following code snippet.
+```java
+if (aNumber >= 0)
+    if (aNumber == 0)
+        System.out.println("first string");
+else System.out.println("second string");
+System.out.println("third string");
+```
+*   What output do you think the code will produce if aNumber is 3?
+*   Write a test program containing the previous code snippet; make aNumber 3. What is the output of the program? Is it what you predicted? Explain why the output is what it is; in other words, what is the control flow for the code snippet?
+*   Using only spaces and line breaks, reformat the code snippet to make the control flow easier to understand.
+*   Use braces, { and }, to further clarify the code.
 
-Reading Materials
-* https://icarus.cs.weber.edu/~dab/cs1410/textbook/4.Pointers/memory.html
+2. Write a `switch` statement with at least 3 conditions for the variable below that will output the string `The variable is ____`. If the variable value does not match any of the `switch` conditions, print out `No idea what a ____ is`
+```java
+// fill in test values here
+string s = ""
+
+//.... write switch here
+```
+
+3. Write two identical loops that print out numbers 1 - 10, using `for` and `while` loops.
 
 ### Section 4 - Intro to Object Oriented Programming in Java
 
 ### Section 5 - Advanced Data Structures
 
 ### Section 6 - Memory management 
+
+### Reading Materials
+* https://icarus.cs.weber.edu/~dab/cs1410/textbook/4.Pointers/memory.html
 
 ### Section 7 - Debugging
 
